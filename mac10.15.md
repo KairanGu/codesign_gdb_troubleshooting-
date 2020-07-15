@@ -15,8 +15,8 @@ Some issues I have encountered:
 
  Control + Z to quit the program you are currently running  
  Type in the code below: 
- `<touch ~/.gdbinit>`
- `<echo "set startup-with-shell off" >> ~/.gdbinit>`
+ `touch ~/.gdbinit`
+ `echo "set startup-with-shell off" >> ~/.gdbinit`
  
 
 2. 
