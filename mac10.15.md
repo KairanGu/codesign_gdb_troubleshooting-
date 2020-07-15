@@ -1,7 +1,7 @@
 Install gdb on your mac 
 1. Open terminal 
-2. Type in "brew install gdb"
-3. To check the software edition: gdb -v
+2. Type in `<brew install gdb>`
+3. To check the software edition: `<gdb -v>`
 
 Installtion for adding certificate can be find from 
 https://gist.github.com/gravitylow/fb595186ce6068537a6e9da6d8b5b96d
