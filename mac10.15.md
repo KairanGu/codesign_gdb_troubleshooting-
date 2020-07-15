@@ -9,7 +9,7 @@ https://gist.github.com/gravitylow/fb595186ce6068537a6e9da6d8b5b96d
 
 Some issues I have encountered: 
 
-1. [New Thread 0xd03 of process 1661]
+1. #[New Thread 0xd03 of process 1661]
  Solution: 
 
  Control + Z to quit the program you are currently running  
