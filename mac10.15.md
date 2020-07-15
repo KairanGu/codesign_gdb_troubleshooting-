@@ -20,8 +20,8 @@ Some issues I have encountered:
  
 
 2. 
-`<Unable to find Mach task port for process-id 919: (os/kern) failure (0x5).>`
- `<(please check gdb is codesigned - see taskgated(8))>`
+`Unable to find Mach task port for process-id 919: (os/kern) failure (0x5).`
+ `(please check gdb is codesigned - see taskgated(8))`
  Solution: sudo gdb executableFileName (add sudo) 
  
  
